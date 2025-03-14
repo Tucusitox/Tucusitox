@@ -31,7 +31,7 @@ disciplina y la perseverancia en todas mis actividades.
 </p>
 <br>
 
-<h2 >Tecnologías favoritas (mi stack) 😻</h2>
+<h2 >Mi Full Stack 😻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
