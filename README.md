@@ -31,6 +31,15 @@ disciplina y la perseverancia en todas mis actividades.
 </p>
 <br>
 
+<h2 >Tecnologías favoritas (mi stack) 😻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,php,laravel,astro,mysql&perline=12" />
+  </a>
+</p>
+<br>
+
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
