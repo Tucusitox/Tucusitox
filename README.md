@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy José Morian / Desarrollador Backend ✨ </h1> 
+<h1 align="center">Hola 👋  soy José Morian / Desarrollador Backend 💻 </h1> 
 
 <p align="left">
 <a href = "mailto:jdmorianperez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
@@ -10,7 +10,7 @@
 <p align="left">
 🎓 TÉNICO EN INFORMÁTICA
 
-Estudiante de informática apasionado por la tecnología 😵 y la innovación en el desarrollo de
+Técnico en informática apasionado por la tecnología 😵 y la innovación en el desarrollo de
 software. Deseoso de aplicar lo aprendido en mi carrera para generar soluciones a
 problemas de negocio y la experiencia práctica en proyectos tecnológicos. Fuera de los
 estudios, disfruto mucho el hacer ejercicio continuo, los videojuegos y el cuidado de mi
