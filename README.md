@@ -26,7 +26,7 @@ disciplina y la perseverancia en todas mis actividades.
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,laravel,astro,react,angular,nodejs,git,github,mulesoft&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,laravel,astro,react,angular,nodejs,git,github,express&perline=12" />
   </a>
 </p>
 <br>
