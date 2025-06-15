@@ -1,9 +1,5 @@
 <h1 align="center">Hola 👋  soy José Morian / Desarrollador Backend 💻 </h1> 
 
-<p align="left">
-<a href = "mailto:jdmorianperez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
