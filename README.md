@@ -10,12 +10,7 @@
 <p align="left">
 🎓 TÉNICO EN INFORMÁTICA
 
-Técnico en informática apasionado por la tecnología y la innovación en el desarrollo de
-software. Deseoso de aplicar lo aprendido en mi carrera para generar soluciones a
-problemas de negocio y la experiencia práctica en proyectos tecnológicos. Fuera de los
-estudios, disfruto mucho el hacer ejercicio continuo, los videojuegos y el cuidado de mi
-mascota, lo que ha contribuido a mi enfoque integral de la vida y el trabajo, fomentando la
-disciplina y la perseverancia en todas mis actividades.  
+Técnico Superior en Informática con 2 años de experiencia en desarrollo de software, apasionado por la tecnología y la innovación en el desarrollo de software. Deseo aplicar lo aprendido en mi carrera para generar soluciones a problemas de negocio y adquirir experiencia práctica en proyectos tecnológicos. Fuera de lo laboral, disfruto mucho hacer ejercicio regularmente, los videojuegos y el cuidado de mi mascota, lo que ha contribuido a mi enfoque integral de la vida y el trabajo, fomentando la disciplina y la perseverancia en todas mis actividades.
 
 📫 Contacto: **jdmorianperez@gmail.com**
 <!--Intro end-->
