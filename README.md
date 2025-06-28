@@ -8,7 +8,7 @@
 
 Técnico Superior en Informática con dos años de experiencia en desarrollo de software, apasionado por la tecnología y la innovación en el desarrollo de software. Deseo aplicar lo aprendido en mi carrera para generar soluciones a problemas de negocio y adquirir experiencia práctica en proyectos tecnológicos. Fuera de lo laboral, disfruto mucho hacer ejercicio regularmente, los videojuegos y el cuidado de mi mascota, lo que ha contribuido a mi enfoque integral de la vida y el trabajo, fomentando la disciplina y la perseverancia en todas mis actividades.
 
-📫 Contacto: **jdmorianperez@gmail.com**
+📫 Contacto: **jdmorianperez@gmail.com**<br>
 👨🏻‍💻 Portafolio: **https://mi-portafolio-astro.vercel.app**
 <!--Intro end-->
   </p>
