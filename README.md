@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy José Morian / Desarrollador Web 💻 </h1> 
+<h1 align="center">Hola 👋  soy José Morian / Desarrollador Backend 💻 </h1> 
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
