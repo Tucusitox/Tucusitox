@@ -14,9 +14,7 @@ Como Técnico Superior Universitario en Informática, cuento además con compete
 
 📫 Contacto: **jdmorianperez@gmail.com**
 <br>
-👨🏻‍💻 LinkedIn: **https://www.linkedin.com/in/josé-daniel-morian-867338273**
-<!--Intro end-->
-  </p>
+📫 LinkedIn: **https://www.linkedin.com/in/josé-daniel-morian-867338273**
 <br>
 👨🏻‍💻 Portafolio: **https://mi-portafolio-astro.vercel.app**
 <!--Intro end-->
